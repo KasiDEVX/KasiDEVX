@@ -28,7 +28,9 @@
   </br>Cooking full-stack & cybersec projects 👀🔥
 </pre>
 <h2 align ="center">STATS</h2>
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=KasiDEVX&theme=radical&hide_border=true" height="180" /> </p>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kasi_Branded&show_icons=true" />
+</picture>
 
 🎯 What I'm Grinding On
 <ul>
