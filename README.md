@@ -48,6 +48,6 @@ Java desktop tools
 📚 Java & Web Dev academic projects
 
 🌐 Find Me Elsewhere
-<p> <a href="https://kasi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/kasidevx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<p> <a href="https://kasi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/kasivishwanathanp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 👀 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KasiDEVX&style=flat-square&color=00eaff" /> </p>
