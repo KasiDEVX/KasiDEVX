@@ -26,17 +26,13 @@ Cooking full-stack & cybersec projects 👀🔥
 🎬 Aesthetic Vibes Section
 <p align="center"> <img src="https://media.tenor.com/4Lkzbdg6rXkAAAAC/coding-anime.gif" width="450"/> </p>
 🎯 What I'm Grinding On
-
-Full-stack mastery
-
-UI/UX experiments
-
-DSA (because pain builds character 💀)
-
-Cybersecurity fundamentals
-
-Java desktop tools
-
+<ul>
+<li>Full-stack mastery</li>
+<li>UI/UX experiments<li>
+<li>DSA (because pain builds character 💀)</li>
+<li>Cybersecurity fundamentals</li>
+<li>Java desktop tools</li>
+</ul>
 🏆 Achievements
 
 🥇 CodeChef 500 Problems Badge
