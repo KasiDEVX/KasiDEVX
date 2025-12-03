@@ -5,7 +5,7 @@ Hey,<strong style="color: blue;"> I’m KASIVISHWANATHAN P</strong>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Learner;DSA+Explorer;Tech+Enthusiast;Always+Building+Something+New" /> </p>
 🧰 Tech Arsenal
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,bootstrap,git,github,vscode,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,bootstrap,git,github,vscode,figma" /> </p>
 🚀 Highlighted Projects
 🔹 Portfolio Website
 
