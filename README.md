@@ -22,7 +22,6 @@ Tech: Java, JFreeChart
 
 Cooking full-stack & cybersec projects 👀🔥
 
-🔥 GitHub Stats Look Better Animated
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KasiDEVX&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasiDEVX&layout=compact&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=KasiDEVX&theme=radical&hide_border=true" height="180"/> </p>
 🎬 Aesthetic Vibes Section
 <p align="center"> <img src="https://media.tenor.com/4Lkzbdg6rXkAAAAC/coding-anime.gif" width="450"/> </p>
