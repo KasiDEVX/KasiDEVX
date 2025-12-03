@@ -1,30 +1,35 @@
-Hey,<p style= "color:blue;"> I’m KASIVISHWANATHAN P</p>
-🚀 Full-Stack Dev | 🛡️ Cybersecurity Learner | 📚 DSA Explorer
+<h1  align="center"><b>Hey, I’m KASIVISHWANATHAN P</b></h1>
+
+<p align="center">🚀 Full-Stack Dev | 🛡️ Cybersecurity Learner | 📚 DSA Explorer</p>
 
 💫 Trying to build cool stuff while surviving college.
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Learner;DSA+Explorer;Tech+Enthusiast;Always+Building+Something+New" /> </p>
 🧰 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,bootstrap,git,github,vscode,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,bootstrap,git,github,vscode,figma" /> </p>
 🚀 Highlighted Projects
-🔹 Portfolio Website
 
-Responsive portfolio with smooth UI & animations
-Tech: HTML, CSS, JS, Bootstrap
-🔗 https://github.com/KasiDEVX/My-portfolio
-
+</br><pre>🔹 Portfolio Website
+   </br>
+    </t> Responsive portfolio with smooth UI & animations
+  </br> </t>Tech: HTML, CSS, JS, Bootstrap
+  </br> 🔗 https://github.com/KasiDEVX/My-portfolio
+</pre>
+</br>
+<pre>
 🔹 Customer Dashboard (Mini Project)
-
-Java + JFreeChart visualization tool
-Tech: Java, JFreeChart
-
+</br>Java + JFreeChart visualization tool
+ </br> Tech: Java, JFreeChart
+</pre>
+</br>
+<pre>
 🔹 More Projects Coming Soon
 
-Cooking full-stack & cybersec projects 👀🔥
-
+  </br>Cooking full-stack & cybersec projects 👀🔥
+</pre>
+<h2 align ="center">STATS</h2>
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=KasiDEVX&theme=radical&hide_border=true" height="180" /> </p>
-🎬 Aesthetic Vibes Section
-<p align="center"> <img src="https://media.tenor.com/4Lkzbdg6rXkAAAAC/coding-anime.gif" width="450"/> </p>
+
 🎯 What I'm Grinding On
 <ul>
 <li>Full-stack mastery</li>
