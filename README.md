@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Oj9-6Yews7wAAAAi/anime.gif" width="60"/> Hey,<strong style="color: blue";> I’m KASIVISHWANATHAN P</strong>
+<img src="https://media.tenor.com/Oj9-6Yews7wAAAAi/anime.gif" width="60"/> Hey,<strong style="color: blue;"> I’m KASIVISHWANATHAN P</strong>
 🚀 Full-Stack Dev | 🛡️ Cybersecurity Learner | 📚 DSA Explorer
 
 💫 Trying to build cool stuff while surviving college.
