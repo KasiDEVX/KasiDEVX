@@ -1,4 +1,4 @@
-Hey,<strong style="color: blue;"> I’m KASIVISHWANATHAN P</strong>
+Hey,<p style= "color:blue;"> I’m KASIVISHWANATHAN P</p>
 🚀 Full-Stack Dev | 🛡️ Cybersecurity Learner | 📚 DSA Explorer
 
 💫 Trying to build cool stuff while surviving college.
@@ -28,21 +28,19 @@ Cooking full-stack & cybersec projects 👀🔥
 🎯 What I'm Grinding On
 <ul>
 <li>Full-stack mastery</li>
-<li>UI/UX experiments<li>
+<li>UI/UX experiments</li>
 <li>DSA (because pain builds character 💀)</li>
 <li>Cybersecurity fundamentals</li>
 <li>Java desktop tools</li>
 </ul>
+
 🏆 Achievements
-
-🥇 CodeChef 500 Problems Badge
-
-💎 CodeChef 100-Day Streak
-
-🟦 Bootstrap Certification
-
-📚 Java & Web Dev academic projects
-
+<ul>
+ <li>🥇 CodeChef 500 Problems Badge</li>
+ <li>💎 CodeChef 100-Day Streak</li>
+ <li>🟦 Bootstrap Certification</li>
+ <li>📚 Java & Web Dev academic projects</li>
+</ul>
 🌐 Find Me Elsewhere
 <p> <a href="https://kasi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/kasivishwanathanp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 👀 Profile Views
