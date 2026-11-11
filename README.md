@@ -13,10 +13,10 @@
    </br>
     </t> Responsive portfolio with smooth UI & animations
   </br> </t>Tech: HTML, CSS, JS, Bootstrap
-  </br> 🔗 https://github.com/KasiDEVX/My-portfolio
+  </br> 🔗 https://github.com/KasiDEVX/PortFolio-V2
 </pre>
 </br>
-<pre>
+<ppre
 🔹 Customer Dashboard (Mini Project)
 </br>Java + JFreeChart visualization tool
  </br> Tech: Java, JFreeChart
